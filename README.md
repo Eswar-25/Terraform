@@ -1,5 +1,5 @@
 # Terraform
-All important topics - Associate level 
+# All important topics - Associate level 
 1. What is IaC?
 
 - Infrastructure as code (IaC) is the practice of managing and provisioning IT i**nfrastructure through code instead of manual processes**.
